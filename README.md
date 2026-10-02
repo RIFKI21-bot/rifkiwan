@@ -26,10 +26,10 @@
 </section>
 
 <section>
-<h2>Pendidikan Sekarang</h2>
+<h2>Pendidikan </h2>
 <h3>SMA Gunung Madu</h3>
 <p>IPA <span>2024–2027</span></p>
-<p>Anggota <b>Students Responsible Council (SRC)</b></p>
+<p>Anggota <b>Students Responsible Council (SRC) 2025-2026</b></p>
 </section>
 
 <section>
@@ -40,17 +40,6 @@
 <b>🏃 Lari</b>
 <b>📷 Editing Foto</b>
 <b>📱 Affiliate</b>
-</div>
-</section>
-
-<section>
-<h2>Karakter</h2>
-<div class="tags">
-<span>Disiplin</span>
-<span>Aktif</span>
-<span>Bertanggung Jawab</span>
-<span>Teamwork</span>
-<span>Mudah Beradaptasi</span>
 </div>
 </section>
 
