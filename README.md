@@ -27,7 +27,7 @@
 <h2>Pendidikan </h2>
 <h3>SMA Gunung Madu</h3>
 <p>IPA <span>2024–2027</span></p>
-<p>Anggota:<b>Students Responsible Council (SRC) 2025-2026</b></p>
+<p>Anggota:<b>Students Representative Council (SRC) 2025-2026</b></p>
 </section>
 
 <section>
