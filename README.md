@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>RIFKI KURNIAWAN</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -14,7 +13,7 @@
   <div class="foto">RK</div>
   <div>
     <h1>RIFKI KURNIAWAN</h1>
-    <p>SISWA SMA </p>
+    <p>Pelajar SMA Gunung Madu</p>
   </div>
 </header>
 
